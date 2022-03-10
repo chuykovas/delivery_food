@@ -5,6 +5,9 @@ HTML/CSS, JavaSCript, Webpack
 Установка:
 
 1. Клонировать репозиторий в локальное хранилище
-2. Выполнить команду npm install
-3. Запустить json-сервер json-server db.json
-4. Запустить webpack npx webpack
+2. Выполнить команду 
+npm install
+4. Запустить json-сервер 
+json-server db.json
+6. Запустить webpack 
+npx webpack
